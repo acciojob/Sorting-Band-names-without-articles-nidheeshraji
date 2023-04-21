@@ -1,7 +1,6 @@
 //your code here
-let bandNames = ["The Beatles", "Led Zeppelin", "The Rolling Stones", "Pink Floyd", "Queen", "The Who"];
-
-function sortBandNames(bandNames) {
+let touristSpots = ['The Virupaksha Temple', 'Victoria Memorial', 'Tajmahal'];
+function sortBandNames(touristSpots) {
   // Define the list of articles
   const articles = ["a", "an", "the"];
   
